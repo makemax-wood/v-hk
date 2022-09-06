@@ -1,28 +1,28 @@
-## v2ray-heroku
+## vh
 是我面向新手写的教程
-【金山文档】 Heroku搭建教程
+搭建教程
 https://kdocs.cn/l/cuGOXoYA2DwO
 
-【金山文档】 申请Freenom域名的正确做法
+【金山】 申请Freenom域名的正确做法
 https://kdocs.cn/l/cmqB5kYnODzN
 
 昨天CF域名大量被国内DNS污染
 
-现在推出CloudFlare Workers 被墙解决方案
+现在推出CFlare Workers 被解决方案
 
-【金山文档】 CloudFlare Workers 被墙解决方案
+【金山文档】 CloudFlare Workers 解决方案
 https://kdocs.cn/l/cp7ppdbff6Yw
 
 
 [![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/qq198812/heroku.git)
 https://dashboard.heroku.com/new?template=
 
-### heroku上部署v2ray
-- [x] 支持VMess和VLESS两种协议
+### hku上部署v
+- [x] 支持VM和VL两种协议
 - [x] 支持自定义websocket路径
 - [x] 伪装首页（3D元素周期表）
 - [x] HTML5测速
-- [x] 使用v2ray最新版构建
+- [x] 使用v最新版构建
 
 请求`/`，返回3D元素周期表
 
